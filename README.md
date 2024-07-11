@@ -11,7 +11,7 @@ Image format :- PPM (Portable Pixmap Format)
 ## Clone the project
 
 ```bash
- git clone https://github.com/omkaroak26/DSA2-project.git
+ git clone https://github.com/Tejasvjadhav2004/Image-Manipulation-Using-Quadtrees.git
 ```
 
 ## Run Locally
@@ -89,13 +89,6 @@ Image format:
 
 Similar approach is carried for application of Blue, Green filter and Black-White images.
 
------------
 
-
-## Authors
-
-- [Omkar Oak - 112103099](https://github.com/omkaroak26)
-- [Rukmini Nazre - 112103098](https://github.com/rukmini-17)
-- [Vardhan Mundada - 112103091](https://github.com/Vardhan-Mundada)
 
 
